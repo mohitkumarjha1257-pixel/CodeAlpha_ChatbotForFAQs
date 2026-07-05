@@ -1,4 +1,4 @@
-markdown_content = """# CodeAlpha_Chatbot
+# CodeAlpha_Chatbot
 
 An intelligent, command-line FAQ Chatbot developed as part of the **Artificial Intelligence Internship** at **CodeAlpha**. This project leverages Natural Language Processing (NLP) techniques to understand user queries and provide the most relevant answers from a predefined knowledge base.
 
@@ -14,19 +14,15 @@ An intelligent, command-line FAQ Chatbot developed as part of the **Artificial I
 
 * **Language:** Python 3.x
 * **Libraries:** * `nltk` (Natural Language Toolkit)
-    * `scikit-learn` (Machine Learning library for TF-IDF & Cosine Similarity)
-    * `numpy` (Numerical operations)
+  * `scikit-learn` (Machine Learning library for TF-IDF & Cosine Similarity)
+  * `numpy` (Numerical operations)
 
 ## 📦 Installation & Setup
 
 1.  **Clone the repository:**
-    ```
-```text?code_stdout&code_event_index=2
-README.md generated successfully.
-
-```bash
-    git clone [https://github.com/your-username/CodeAlpha_Chatbot.git](https://github.com/your-username/CodeAlpha_Chatbot.git)
-    cd CodeAlpha_Chatbot
+    ```bash
+    git clone [https://github.com/mohitkumarjha1257-pixel/CodeAlpha_ChatbotForFAQs.git](https://github.com/mohitkumarjha1257-pixel/CodeAlpha_ChatbotForFAQs.git)
+    cd CodeAlpha_ChatbotForFAQs
     ```
 
 2.  **Install the required dependencies:**
